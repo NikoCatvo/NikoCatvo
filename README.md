@@ -1,19 +1,25 @@
-# 🐾 ✦ Welcome to catvo's Space! ✦ 🐾
+# 🐾 ✦ Welcome to the Tech Nest! ✦ 🐾
 
 Hi there~ 这里是 **catvo** 喵！  
-一个安全意识（好像）不是特别强的主流后端开发喵~ 
+一个沉迷于网络优化、服务器运维与机器人开发的后端/自动化开发喵~
 
-> **catvo** -> Nya~ (Inse)**curit**y Intentionally omitting 🐾  
-> *(虽然名字里带了 curit，但把 insecure 故意漏掉了呀！)*
+> **Core Philosophy** -> 优雅的代码，极致的网速，还有绝对不能漏掉的趣味性 🐾
+
+---
 
 ### 🛠️ My Skills
-- **Kotlin**
-- **Java**
 
-> ⚠️ **Note:** I don't like Python. :( *(拒绝小蛇，猫猫叹气)*
+* **Python & Automation** *(熟练运用 Telethon / aiohttp 构建高效异步工具)*
+* **Linux Server Management** *(多地域节点部署与性能调优专家)*
+* **Network Optimization** *(对抗网络吞吐限制与 QoS 调优)*
+
+> ⚠️ **Note:** 拒绝繁琐的重复劳动，能用自动化脚本解决的绝不手动！
+
+---
 
 ### 📬 Find Me
-- **Telegram:** [catvo](https://t.me/catvo)
-- **Email:** [mikucatovo@gmail.com](mailto:mikucatovo@gmail.com)
-- **Discord:** `catvo`
-- **WeChat:** Contact telegram to get
+
+* **Telegram:** [catvo](https://t.me/catvo)
+* **Email:** [mikucatovo@gmail.com](mailto:mikucatovo@gmail.com)
+* **Discord:** `catvo`
+* **WeChat:** Contact telegram to get
