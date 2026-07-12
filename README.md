@@ -21,5 +21,5 @@ Hi there~ 这里是 **catvo** 喵！
 
 * **Telegram:** [catvo](https://t.me/catvo)
 * **Email:** [mikucatovo@gmail.com](mailto:mikucatovo@gmail.com)
-* **Discord:** `catvo`
+* **Discord:** `catvo520`
 * **WeChat:** Contact telegram to get
