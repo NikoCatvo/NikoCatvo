@@ -1,25 +1,189 @@
-# 🐾 ✦ Welcome to the Tech Nest! ✦ 🐾
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header">
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9bb5f1,100:5b2376&height=240&section=header&text=Catvo&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=cdfffd&desc=代码创造世界&descSize=23&descAlignY=65" alt="Header Banner">
+</div>
 
-Hi there~ 这里是 **catvo** 喵！  
-一个沉迷于网络优化、服务器运维与机器人开发的后端/自动化开发喵~
+<div align="center">
+  <h2>游戏模组开发者 | 开源贡献者 | 独立开发者</h2>
+</div>
 
-> **Core Philosophy** -> 优雅的代码，极致的网速，还有绝对不能漏掉的趣味性 🐾
-
----
-
-### 🛠️ My Skills
-
-* **Python & Automation** *(熟练运用 Telethon / aiohttp 构建高效异步工具)*
-* **Linux Server Management** *(多地域节点部署与性能调优专家)*
-* **Network Optimization** *(对抗网络吞吐限制与 QoS 调优)*
-
-> ⚠️ **Note:** 拒绝繁琐的重复劳动，能用自动化脚本解决的绝不手动！
+<img align="right" alt="This is Catvo" src="Resources/Catvo.png" width="50%" height="auto"/>
 
 ---
 
-### 📬 Find Me
+### 🎯 关于Catvo
 
-* **Telegram:** [catvo](https://t.me/catvo)
-* **Email:** [mikucatovo@gmail.com](mailto:mikucatovo@gmail.com)
-* **Discord:** `catvo520`
-* **WeChat:** Contact telegram to get
+▲ huh？在看我？那就简单介绍一下  
+▲ 这里是**Catvo**，也可以叫我Cat  
+▲ "凯特沃"...? 也行吧——
+
+▲ Catvo是一名在代码世界和现实世界间切换的开发者，也是一名**成分复杂**的游戏玩家/二次元  
+▲ 在我看来，游戏模组开发是我持续学习的过程——在调试中积累经验，在项目中磨练技能  
+▲ 如今的Catvo正在学习更多编程语言！敬请期待~  
+▲ 感兴趣的话，或许你可以来[这里](https://github.com/Catvo?tab=repositories)逛逛？
+▲ 作为强迫症，我的最终版代码一定是整洁且高效……当然了，希望项目永远不会有最终版！
+
+▲ 当不跟编译器较劲时：  
+🎧 在网易云编排电子交响曲，把代码的节奏变成旋律  
+🎮 B站上捕捉游戏的高光时刻，顺带分享点开发日常/动人音乐  
+♟ 棋盘上推演策略，可玩性比算法题高  
+🏀 球场上实践团队协作，虽然打的确实不怎么样
+
+▲ 比起修复代码的"`bug`"，我更愿意捕捉朋友情绪的"`bug`"，"'Debug"他们的心情，这比写代码成就感高多啦！  
+▲ 欢迎继续探索我的[项目空间](https://github.com/Catvo?tab=repositories)——说不定我能帮到你什么呢！  
+
+▲ 什么？你还想"**更进一步**"？  
+▲ 嗯……好吧，来[这里](./OtherFiles/Catvo.md)作客吧！  
+▲ 以后会有更适合做客的地方的！（再等等）
+
+---
+
+### 🛠 技术栈
+
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0">
+    <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  </div>
+</div>
+
+---
+
+## 📊 GitHub 数据
+
+<div align="left" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catvo&layout=compact&bg_color=00000000&hide_border=true&title_color=5bc0be&text_color=64D2C5&langs_count=8&card_opacity=0&exclude_repo=archive,deprecated" alt="Top Languages" />
+</div>
+
+<div align="left" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catvo&repo=Hydra-Chinese&hide_border=true&bg_color=00000000&title_color=5bc0be&text_color=64D2C5)](https://github.com/Catvo/Hydra-Chinese)
+</div>
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Catvo&show_icons=true&bg_color=00000000&hide_border=true&title_color=5bc0be&text_color=64D2C5&icon_color=58a6ff&include_all_commits=true" alt="GitHub Stats" />
+</div>    
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Catvo&theme=transparent&hide_border=true&border_radius=4&sideNums=5BC0BE&sideLabels=64D2C5&currStreakNum=5BC0BE&currStreakLabel=64D2C5&ring=41E3EB&fire=4FC4EB" alt="GitHub Streak" />
+</div>
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Catvo&theme=transparent" alt="Profile Details">
+</div>
+
+---
+
+### 🎮 赛博世界
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0">
+  <!-- 游戏组 1：原神、崩坏·星穹铁道 -->
+  <div>
+    <img src="https://img.shields.io/badge/原神-53BEE6?&logo=mihoyo&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/崩坏·星穹铁道-6C6C6C?&logo=railway&logoColor=white&style=for-the-badge" />
+  </div>
+
+  <!-- 游戏组 2：Undertale、Deltarune、Among Us、Minecraft、歧路旅人、三角战略 + 塞尔达系列、锈湖系列 -->
+  <div>
+    <img src="https://img.shields.io/badge/Undertale-000000?&logo=undertale&logoColor=ff0000&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Deltarune-000000?&logo=undertale&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Among_Us-FF0000?&logo=amongus&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Minecraft-62B74A?&logo=minecraft&logoColor=white&style=for-the-badge&logoWidth=20" />  
+    <img src="https://img.shields.io/badge/歧路旅人-6A5ACD?&logo=squareenix&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/三角战略-6A7ACD?&logo=squareenix&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/塞尔达系列-2C6E4F?&logo=zelda&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/锈湖系列-8B5A2B?&logoColor=white&style=for-the-badge" />
+  </div>
+
+  <!-- 游戏组 3：第五人格、光遇 -->
+  <div>
+    <img src="https://img.shields.io/badge/第五人格-5D3A1A?&logo=identityv&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/光遇-6C9EBF?&logo=thatgamecompany&logoColor=white&style=for-the-badge" />
+  </div>
+
+  <!-- 游戏组 4：超级马里奥U、马车8、奥德赛 -->
+  <div>
+    <img src="https://img.shields.io/badge/超级马里奥U-E52525?&logo=nintendo&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/马车8-4A6FA5?&logo=mario-kart&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/奥德赛-C96A2E?&logo=super-mario-odyssey&logoColor=white&style=for-the-badge" />
+  </div>
+
+  <!-- 小说部分：三体系列、流浪地球 -->
+  <div>
+    <img src="https://img.shields.io/badge/三体系列-1A4D5E?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/流浪地球-0A3A5E?&logoColor=white&style=for-the-badge" />
+  </div>
+
+  <!-- 动漫部分：龙珠、灌篮高手、凹凸世界、画江湖之不良人 + 镇魂街、西行记、死亡笔记 -->
+  <div>
+    <img src="https://img.shields.io/badge/龙珠-FF9900?&logo=dragonframe&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/灌篮高手-FF0000?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/凹凸世界-8A2BE2?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/画江湖之不良人-DC143C?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/镇魂街-FA3E0C?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/西行记-B85C1A?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/死亡笔记-2C2C2C?&logoColor=white&style=for-the-badge" />
+  </div>
+</div>
+
+### 🎨 灵艺工坊
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0">
+  <!-- 乐器组 -->
+  <div>
+    <img src="https://img.shields.io/badge/长笛-B0B0B0?style=for-the-badge&logo=music&logoColor=white" />
+  </div>
+
+  <!-- 美术组 -->
+  <div>
+    <img src="https://img.shields.io/badge/素描-7C8C8C?style=for-the-badge&logo=artstation&logoColor=white" />
+    <img src="https://img.shields.io/badge/速写-B59C6C?style=for-the-badge&logo=sketch&logoColor=white" />
+    <img src="https://img.shields.io/badge/色彩-B5736B?style=for-the-badge&logo=adobecolor&logoColor=white" />
+  </div>
+
+  <!-- 棋类组 -->
+  <div>
+    <img src="https://img.shields.io/badge/围棋-6A6A6A?style=for-the-badge&logo=googlegemini&logoColor=white" />
+    <img src="https://img.shields.io/badge/五子棋-4A7C6B?style=for-the-badge&logo=boardgame&logoColor=white" />
+    <img src="https://img.shields.io/badge/中国象棋-B54C3C?style=for-the-badge&logo=chinesecharacter&logoColor=white" />
+    <img src="https://img.shields.io/badge/日本将棋-6B8E6B?style=for-the-badge&logo=shogi&logoColor=white" />
+    <img src="https://img.shields.io/badge/国际象棋chess.com-81B64C?style=for-the-badge&logo=chess.com&logoColor=white" />
+  </div>
+</div>
+
+### 📱 社交网络
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0">
+  <!-- 联系方式区域预留，暂不填写 -->
+</div>
+<div>
+▲ <b>欢迎随时来找我——</b>
+</div>
+
+---
+
+<div>
+<br><br><br><br><br><br>
+
+▲ ......  
+▲ 还在看？  
+▲ 这里没东西了  
+▲ ......  
+▲ 还不走吗？  
+▲ ......  
+▲ ......  
+▲ 好吧你赢了  
+▲ 把就**勉为其难**送你一份[礼物](https://www.youtube.com/watch?v=dQw4w9WgXcQ)作为你坚持的嘉奖吧!  
+▲ bye~  
+▲ ;)
+
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Footer">
+</div>
