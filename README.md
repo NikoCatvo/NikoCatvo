@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header">
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9bb5f1,100:5b2376&height=240&section=header&text=Catvo·微生猫&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=cdfffd&desc=代码创造世界&descSize=23&descAlignY=65" alt="Header Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9bb5f1,100:5b2376&height=240&section=header&text=Catvo·微生猫&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=cdfffd&desc=开发决定深度,逆向决定高度&descSize=23&descAlignY=65" alt="Header Banner">
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 ▲ huh？在看我？那就简单介绍一下  
 ▲ 这里是**Catvo·微生猫**，也可以叫我Cat  
-▲ "凯特沃"...? 也行吧——
+▲ "猫沃"...? 也行吧——
 
 ▲ Catvo是一名在代码世界和现实世界间切换的开发者，也是一名**成分复杂**的游戏玩家/二次元  
 ▲ 在我看来，游戏模组开发是我持续学习的过程——在调试中积累经验，在项目中磨练技能  
@@ -175,7 +175,7 @@
   <a href="https://t.me/catvo">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?&logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
   </a>
-  <a href="https://twitter.com/catvo0">
+  <a href="https://twitter.com/catvowo">
     <img src="https://img.shields.io/badge/X-000000?&logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)" />
   </a>
   <a href="https://ovoblog.net">
