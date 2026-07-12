@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header">
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9bb5f1,100:5b2376&height=240&section=header&text=Catvo&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=cdfffd&desc=代码创造世界&descSize=23&descAlignY=65" alt="Header Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9bb5f1,100:5b2376&height=240&section=header&text=Catvo·微生猫&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=cdfffd&desc=代码创造世界&descSize=23&descAlignY=65" alt="Header Banner">
 </div>
 
 <div align="center">
@@ -16,13 +16,13 @@
 ### 🎯 关于Catvo
 
 ▲ huh？在看我？那就简单介绍一下  
-▲ 这里是**Catvo**，也可以叫我Cat  
+▲ 这里是**Catvo·微生猫**，也可以叫我Cat  
 ▲ "凯特沃"...? 也行吧——
 
 ▲ Catvo是一名在代码世界和现实世界间切换的开发者，也是一名**成分复杂**的游戏玩家/二次元  
 ▲ 在我看来，游戏模组开发是我持续学习的过程——在调试中积累经验，在项目中磨练技能  
 ▲ 如今的Catvo正在学习更多编程语言！敬请期待~  
-▲ 感兴趣的话，或许你可以来[这里](https://github.com/Catvo?tab=repositories)逛逛？
+▲ 感兴趣的话，或许你可以来[这里](https://github.com/NikoCatvo?tab=repositories)逛逛？
 ▲ 作为强迫症，我的最终版代码一定是整洁且高效……当然了，希望项目永远不会有最终版！
 
 ▲ 当不跟编译器较劲时：  
@@ -32,7 +32,7 @@
 🏀 球场上实践团队协作，虽然打的确实不怎么样
 
 ▲ 比起修复代码的"`bug`"，我更愿意捕捉朋友情绪的"`bug`"，"'Debug"他们的心情，这比写代码成就感高多啦！  
-▲ 欢迎继续探索我的[项目空间](https://github.com/Catvo?tab=repositories)——说不定我能帮到你什么呢！  
+▲ 欢迎继续探索我的[项目空间](https://github.com/NikoCatvo?tab=repositories)——说不定我能帮到你什么呢！  
 
 ▲ 什么？你还想"**更进一步**"？  
 ▲ 嗯……好吧，来[这里](./OtherFiles/Catvo.md)作客吧！  
@@ -58,24 +58,24 @@
 ## 📊 GitHub 数据
 
 <div align="left" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catvo&layout=compact&bg_color=00000000&hide_border=true&title_color=5bc0be&text_color=64D2C5&langs_count=8&card_opacity=0&exclude_repo=archive,deprecated" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoCatvo&layout=compact&bg_color=00000000&hide_border=true&title_color=5bc0be&text_color=64D2C5&langs_count=8&card_opacity=0&exclude_repo=archive,deprecated" alt="Top Languages" />
 </div>
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Catvo&repo=Hydra-Chinese&hide_border=true&bg_color=00000000&title_color=5bc0be&text_color=64D2C5)](https://github.com/Catvo/Hydra-Chinese)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikoCatvo&repo=Hydra-Chinese&hide_border=true&bg_color=00000000&title_color=5bc0be&text_color=64D2C5)](https://github.com/NikoCatvo/Hydra-Chinese)
 </div>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
-    <img src="https://github-readme-stats.vercel.app/api?username=Catvo&show_icons=true&bg_color=00000000&hide_border=true&title_color=5bc0be&text_color=64D2C5&icon_color=58a6ff&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NikoCatvo&show_icons=true&bg_color=00000000&hide_border=true&title_color=5bc0be&text_color=64D2C5&icon_color=58a6ff&include_all_commits=true" alt="GitHub Stats" />
 </div>    
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Catvo&theme=transparent&hide_border=true&border_radius=4&sideNums=5BC0BE&sideLabels=64D2C5&currStreakNum=5BC0BE&currStreakLabel=64D2C5&ring=41E3EB&fire=4FC4EB" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NikoCatvo&theme=transparent&hide_border=true&border_radius=4&sideNums=5BC0BE&sideLabels=64D2C5&currStreakNum=5BC0BE&currStreakLabel=64D2C5&ring=41E3EB&fire=4FC4EB" alt="GitHub Streak" />
 </div>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Catvo&theme=transparent" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikoCatvo&theme=transparent" alt="Profile Details">
 </div>
 
 ---
@@ -160,10 +160,31 @@
 ### 📱 社交网络
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0">
-  <!-- 联系方式区域预留，暂不填写 -->
+  <a href="https://github.com/NikoCatvo">
+    <img src="https://img.shields.io/badge/GitHub-181717?&logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="https://space.bilibili.com/1301684100">
+    <img src="https://img.shields.io/badge/Bilibili-FF7590?&logo=bilibili&logoColor=white&style=for-the-badge" alt="Bilibili" />
+  </a>
+  <a href="mailto:mikucatovo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?&logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=3010867992">
+    <img src="https://img.shields.io/badge/QQ-12B7F5?&logo=tencentqq&logoColor=white&style=for-the-badge" alt="QQ" />
+  </a>
+  <a href="https://t.me/catvo">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?&logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
+  </a>
+  <a href="https://twitter.com/catvo0">
+    <img src="https://img.shields.io/badge/X-000000?&logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)" />
+  </a>
+  <a href="https://ovoblog.net">
+    <img src="https://img.shields.io/badge/个人博客-FF6B6B?&logo=blogger&logoColor=white&style=for-the-badge" alt="Blog" />
+  </a>
 </div>
 <div>
-▲ <b>欢迎随时来找我——</b>
+▲ <b>欢迎随时来找我——</b>  
+▲ 🇨🇳 PRC | UTC+8:00 | 喵喵喵~
 </div>
 
 ---
