@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h2>游戏模组开发者 | 开源贡献者 | 独立开发者</h2>
+  <h2>开源贡献者 | 独立开发者</h2>
 </div>
 
 <img align="right" alt="This is Catvo" src="Resources/Catvo.png" width="50%" height="auto"/>
@@ -19,15 +19,15 @@
 ▲ 这里是**Catvo·微生猫**，也可以叫我Cat  
 ▲ "猫沃"...? 也行吧——
 
-▲ Catvo是一名在代码世界和现实世界间切换的开发者，也是一名**成分复杂**的游戏玩家/二次元  
-▲ 在我看来，游戏模组开发是我持续学习的过程——在调试中积累经验，在项目中磨练技能  
+▲ Catvo是一名在代码世界和现实世界间切换的开发者，也是一名**成分复杂**的二次元  
+▲ 在我看来，开发是我持续学习的过程——在调试中积累经验，在项目中磨练技能  
 ▲ 如今的Catvo正在学习更多编程语言！敬请期待~  
-▲ 感兴趣的话，或许你可以来[这里](https://github.com/NikoCatvo?tab=repositories)逛逛？
+▲ 感兴趣的话，或许你可以来[这里](https://github.com/NikoCatvo?tab=repositories)逛逛？  
 ▲ 作为强迫症，我的最终版代码一定是整洁且高效……当然了，希望项目永远不会有最终版！
 
 ▲ 当不跟编译器较劲时：  
 🎧 在网易云编排电子交响曲，把代码的节奏变成旋律  
-🎮 B站上捕捉游戏的高光时刻，顺带分享点开发日常/动人音乐  
+🎬 B站上分享点开发日常/动人音乐  
 ♟ 棋盘上推演策略，可玩性比算法题高  
 🏀 球场上实践团队协作，虽然打的确实不怎么样
 
@@ -45,7 +45,6 @@
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0">
     <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
@@ -80,40 +79,9 @@
 
 ---
 
-### 🎮 赛博世界
+### 📖 精神世界
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0">
-  <!-- 游戏组 1：原神、崩坏·星穹铁道 -->
-  <div>
-    <img src="https://img.shields.io/badge/原神-53BEE6?&logo=mihoyo&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/崩坏·星穹铁道-6C6C6C?&logo=railway&logoColor=white&style=for-the-badge" />
-  </div>
-
-  <!-- 游戏组 2：Undertale、Deltarune、Among Us、Minecraft、歧路旅人、三角战略 + 塞尔达系列、锈湖系列 -->
-  <div>
-    <img src="https://img.shields.io/badge/Undertale-000000?&logo=undertale&logoColor=ff0000&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Deltarune-000000?&logo=undertale&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Among_Us-FF0000?&logo=amongus&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Minecraft-62B74A?&logo=minecraft&logoColor=white&style=for-the-badge&logoWidth=20" />  
-    <img src="https://img.shields.io/badge/歧路旅人-6A5ACD?&logo=squareenix&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/三角战略-6A7ACD?&logo=squareenix&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/塞尔达系列-2C6E4F?&logo=zelda&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/锈湖系列-8B5A2B?&logoColor=white&style=for-the-badge" />
-  </div>
-
-  <!-- 游戏组 3：第五人格、光遇 -->
-  <div>
-    <img src="https://img.shields.io/badge/第五人格-5D3A1A?&logo=identityv&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/光遇-6C9EBF?&logo=thatgamecompany&logoColor=white&style=for-the-badge" />
-  </div>
-
-  <!-- 游戏组 4：超级马里奥U、马车8、奥德赛 -->
-  <div>
-    <img src="https://img.shields.io/badge/超级马里奥U-E52525?&logo=nintendo&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/马车8-4A6FA5?&logo=mario-kart&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/奥德赛-C96A2E?&logo=super-mario-odyssey&logoColor=white&style=for-the-badge" />
-  </div>
-
   <!-- 小说部分：三体系列、流浪地球 -->
   <div>
     <img src="https://img.shields.io/badge/三体系列-1A4D5E?&logoColor=white&style=for-the-badge" />
@@ -175,7 +143,7 @@
   <a href="https://t.me/catvo">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?&logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
   </a>
-  <a href="https://twitter.com/catvowo">
+  <a href="https://x.com/Cattyua">
     <img src="https://img.shields.io/badge/X-000000?&logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)" />
   </a>
   <a href="https://ovoblog.net">
